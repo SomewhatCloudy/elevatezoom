@@ -1,0 +1,11 @@
+{
+  "name": "elevatezoom",
+  "version": "3.0.8",
+  "homepage": "http://www.elevateweb.co.uk/image-zoom",
+  "author": "Andrew Eades Dual",
+  "description": "elevateZoom - A jQuery image zoom plugin",
+  "main": "jquery.elevateZoom-3.0.8.min.js",
+  "dependencies": {
+    "jquery": "~1.8.3"
+  }
+}
